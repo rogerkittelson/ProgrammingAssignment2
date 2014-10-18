@@ -1,5 +1,5 @@
 ## Creates a matrix and provides functions for retrieving matrix
-## creating and retring the inverse of the matrix
+## creating and retrieving the inverse of the matrix w/o requiring a re-calculation of the inverse
 
 ## Provides functions for setting the value of the matrix
 ## getting the values of the matrix
